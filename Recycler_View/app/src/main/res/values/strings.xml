@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recycler_View</string>
+    <string-array name="app_name">
+        <item>Khuyến mãi</item>
+        <item>Không khuyến mãi</item>
+    </string-array>
+</resources>
